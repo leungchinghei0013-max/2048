@@ -4,7 +4,7 @@
 #include <string.h>
 #include <math.h>
 
-#define SIZE 4
+#define SIZE 8
 
 #define TWO_CHANCE 2
 #define THREE_CHANCE 2
